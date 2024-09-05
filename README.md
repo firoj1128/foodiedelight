@@ -59,31 +59,6 @@ Add Restaurant: Use the form to add new restaurant details.
 Modify Restaurant: Update the details of an existing restaurant.
 Delete Restaurant: Remove a restaurant from the list.
 Contributing
-We welcome contributions to improve FoodieDelight. Please follow these steps to contribute:
-
-Fork the Repository
-
-Create a Feature Branch
-
-bash
-Copy code
-git checkout -b feature/your-feature
-Commit Your Changes
-
-bash
-Copy code
-git commit -m "Add your message here"
-Push to the Branch
-
-bash
-Copy code
-git push origin feature/your-feature
-Open a Pull Request
-
-Describe your changes and submit the pull request for review.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Screenshots
 Include some screenshots of your application here to showcase the UI.
