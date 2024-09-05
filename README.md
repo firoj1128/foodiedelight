@@ -1,72 +1,40 @@
-FoodieDelight
+**FoodieDelight**
 
 FoodieDelight is a food delivery application built with React.js. This application allows users to manage a list of restaurants, including adding, modifying, and deleting restaurant details.
 
-Table of Contents
-Features
-Technologies
-Setup
-Usage
-Contributing
-License
-Screenshots
-Contact
-Features
-Add a Restaurant: Form to add new restaurant details.
-Modify Restaurant Details: Update existing restaurant information.
-Delete a Restaurant: Remove a restaurant from the list.
-List Restaurants: View a list of all restaurants.
-Technologies
-Frontend: React.js, Tailwind CSS
-Routing: React Router
-State Management: React Hooks
-Deployment: [Your preferred hosting service]
-Setup
-Prerequisites
-Node.js (v19.0 or later)
-npm (Node Package Manager)
-Installation
-Clone the Repository
+**Add a Restaurant** : Form to add new restaurant details.
 
-bash
-Copy code
-git clone https://github.com/your-username/foodiedelight.git
-Navigate to the Project Directory
+**Modify Restaurant Details** : Update existing restaurant information.
 
-bash
-Copy code
-cd foodiedelight
-Install Dependencies
+**Delete a Restaurant** : Remove a restaurant from the list.
 
-bash
-Copy code
-npm install
-Running the Application
-Start the Development Server
+**List Restaurants** : View a list of all restaurants.
 
-bash
-Copy code
-npm start
-This will run the application on http://localhost:3000.
+**Technologies**
 
-Open Your Browser
+**Frontend**: React.js, Tailwind CSS
 
-Go to http://localhost:3000 to view the application.
+**Routing**: React Router
 
-Usage
-Homepage: View and manage the list of restaurants.
-Add Restaurant: Use the form to add new restaurant details.
-Modify Restaurant: Update the details of an existing restaurant.
-Delete Restaurant: Remove a restaurant from the list.
-Contributing
+**State Management**: React Hooks
 
-Screenshots
-Include some screenshots of your application here to showcase the UI.
+**Deployment** : https://master--foodiedelight1.netlify.app/
+
+**Usage**
+
+**Homepage**: View and manage the list of restaurants.
+
+**Add Restaurant**: Use the form to add new restaurant details.
+
+**Modify Restaurant** : Update the details of an existing restaurant.
+
+**Delete Restaurant**: Remove a restaurant from the list.
 
 
-Contact
-For any questions or suggestions, please contact:
+**Screenshots**
+![image](https://github.com/user-attachments/assets/bab8ca0a-45e0-4341-b2e2-b8c2d010a6f0)
+![image](https://github.com/user-attachments/assets/dd64964c-b7bf-4c1f-88f9-056ccf48bfea)
 
-Name: Your Name
-Email: your-email@example.com
-GitHub: Your GitHub Profile
+
+
+
