@@ -1,4 +1,4 @@
-**FoodieDelight**
+<h1>FoodieDelight</h1>
 
 FoodieDelight is a food delivery application built with React.js. This application allows users to manage a list of restaurants, including adding, modifying, and deleting restaurant details.
 
